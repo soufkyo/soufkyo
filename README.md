@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soufiane Aouad
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning new tech
-- 💞️ I’m looking to collaborate on web dev team
+- 💞️ I’m looking to collaborate on successful web dev team
 - 📫 How to reach me soufkyo@gamail.com
 
 <!---

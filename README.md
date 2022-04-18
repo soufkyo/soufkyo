@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soufkyo
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning new tech
-- 💞️ I’m looking to collaborate on web dev
+- 💞️ I’m looking to collaborate on web dev team
 - 📫 How to reach me soufkyo@gamail.com
 
 <!---

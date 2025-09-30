@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Soufiane Aouad
 - 👀 I’m interested in mobile dev
 - 🌱 I’m currently learning new tech
-- 💞️ I’m looking to collaborate on successful  dev team
-- 📫 How to reach me soufkyo@gmail.com
+ - 📫 How to reach me soufkyo@gmail.com
 
 <!---
 soufkyo/soufkyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

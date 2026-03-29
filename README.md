@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soufiane Aouad
 - 👀 I’m interested in mobile dev
-- 🌱 I’m currently learning new tech
+- 🌱 I’m always learning new tech
  - 📫 How to reach me soufkyo@gmail.com
 
 <!---
